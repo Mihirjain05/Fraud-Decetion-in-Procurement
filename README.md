@@ -3,10 +3,13 @@ Fraud-Detection
 Project Name: Fraud detection in Procurement in E-Groceries.
 
 Project Research
+
 What is Procurement?
+
 It is a process of purchasing goods and services for an individual, society, organization or group in systematic and planned way which includes exchange of information, plan and purpose.
 
 What is procurement fraud?
+
 o Procurement fraud can be defined as dishonestly obtaining an advantage, avoiding an obligation or causing a loss to public property or various means during procurement process by public servants, contractors or any other person involved in the procurement.
 
 o In simple words, it is a kickback to the buyer from the supplier for selecting the supplier’s bid and which might not be in the Company’s best interest.
@@ -14,6 +17,7 @@ o In simple words, it is a kickback to the buyer from the supplier for selecting
 o Procurement fraud occurs when there is deliberate deception within the procedure-to-pay process that results in some type of financial gain, or loss.
 
 What are Common Procurement Fraud Schemes?
+
 In practice, procurement fraud can be carried out in a number of ways, usually with the employee and vendor working together. Procurement employees award a vendor a contract and get something for themselves in return. An employee might do this because they:
 
 • Have a personal connection to the vendor: The vendor is the employee’s family member or friend. By awarding the vendor the contract, the employee enjoys fulfilment in their relationship and/or shares in the financial rewards of the contract.
@@ -32,6 +36,7 @@ o According to the proposed research, certain systems were considered that suppo
 o This proposed e-commerce web application gets reviews as the inputs from the users, stores them in the database and then proposed methods are used to detect the spammers.
 
 FRAUDS IN E-GROCERIES FIELD
+
 Online groceries were often thought of as one of the most predictable ecommerce segments; loyal customers with recognisable buying patterns, typically at their home address, making it easier to spot suspicious activity.
 
 Now, with more people feeling comfortable buying online, wanting to shop around for the best prices and quickest delivery slots, and open to trying out new digital services, there are more accounts being opened and behaviour is less predictable — which is where the fraud problem for these online grocery merchants accelerates.
